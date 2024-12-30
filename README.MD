@@ -92,6 +92,9 @@ The methodology consists of the following steps:
 9. **Choose Best Model**  
    The process involves comparing the performance (MAE and R²) of the current and previous best models using a test dataset. The evaluation considers the mean and standard deviation of these metrics across folds. The model with superior performance is saved as the new "best_model_ever."
 
+10. **Deployment**
+    This model will be deployed locally using Streamlit.
+
 
 ## **Machine Learning Models Employed**
 - K-Nearest Neighbours (KNN)

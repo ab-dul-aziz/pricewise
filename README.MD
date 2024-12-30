@@ -164,6 +164,15 @@ To get started, please ensure the following requirements are met:
 
 Once these steps are completed, the system will be ready for use.
 
+## **Team Members**  
+
+| **Name**                  | **Role**       | **GitHub**                                |  **LinkedIn**                                                        |
+|---------------------------|----------------|-------------------------------------------| ---------------------------------------------------------------------|
+| **Abdul Aziz**            | Data Engineer  | [GitHub](https://github.com/ab-dul-aziz)  | [LinkedIn](https://www.linkedin.com/in/abdul-aziz-data-enthusiast/)  |
+| **Muhammad Noerhadi**     | Data Engineer  | [GitHub](https://github.com/noerHadi17)   | [LinkedIn](https://www.linkedin.com/in/noerhadi/)                    |
+| **Rafina Dhiya Pradani**  | Data Analyst   | [GitHub](https://github.com/rafinadhiya)  | [LinkedIn](https://www.linkedin.com/in/rafinadhiya/)                 |
+| **Yasmin Naila**          | Data Scientist | [GitHub](https://github.com/yasmin-naila) | [LinkedIn](https://www.linkedin.com/in/yasmin-naila/)                |
+
 ## **About Me**
 Abdul Aziz <br>
 LinkedIn: [Abdul Aziz](https://www.linkedin.com/in/abdul-aziz-data-enthusiast/)

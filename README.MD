@@ -10,7 +10,8 @@ PRiceWise is a robust model designed to predict property prices in Jabodetabek. 
 6. [Model Analysis](#model-analysis)
 7. [Further Improvement](#further-improvement)
 8. [How to Use](#how-to-use)
-9. [About Me](#about-me)
+9. [Team Members](#team-members)
+10. [About Me](#about-me)
 
 
 ## **Introduction**
